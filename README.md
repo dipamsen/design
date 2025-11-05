@@ -18,13 +18,18 @@ This repository is a collection of all the work of design (posters, icons and gr
     │   └── metakgp
     │       ├── ...
     │       └── beyond-the-wiki.png
-    └── projects
-        ├── chillzone
-        │   ├── 2023.png
-        │   ├── 2024.png
-        │   ├── ...
-        │   └── README.md
-        └── ...
+    ├── projects
+    │   ├── chillzone
+    │   │   ├── 2023.png
+    │   │   ├── 2024.png
+    │   │   ├── ...
+    │   │   └── README.md
+    │   └── ...
+    └── demo-days
+        ├── aut2025.png
+        ├── ...
+        └── README.md
+        
 ```
 
 ---
