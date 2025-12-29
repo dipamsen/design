@@ -38,4 +38,4 @@
 **Colors**
 - Background Grey: `#2f2f2f`
 - Shadow Grey: `#1f1f1f`
-- Foreground Grey: `#ececec`
+- Foreground White: `#ececec`
