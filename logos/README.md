@@ -32,8 +32,9 @@
 
 
 **Typography**
-- _meta_: Myriad Pro
+- _meta_: Myriad Pro (Bold 700)
 - _KGP_: Titillium Web (Black 900)
+- _m_ (Single letter logos): Titillium Web (Bold 700)
 
 **Colors**
 - Background Grey: `#2f2f2f`
