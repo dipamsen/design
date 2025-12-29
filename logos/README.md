@@ -28,3 +28,12 @@
 </td>
 </tr>
 </table>
+
+## Design Information
+
+**Typography**
+- _meta_: Myriad Pro
+- _KGP_: Titillium Web (Black 900)
+
+**Colors**
+- Primary Grey: `#2b2b2b`
