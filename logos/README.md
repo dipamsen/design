@@ -36,5 +36,6 @@
 - _KGP_: Titillium Web (Black 900)
 
 **Colors**
-- Background Grey: `#2f2f2f`
+- Background Grey 1: `#2f2f2f`
 - Shadow Grey: `#1f1f1f`
+- Foreground Grey: `#ececec`
