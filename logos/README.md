@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td align="center">
-<img src="./m-black.jpg" alt="m-black" width="100" /><br/>
+<img src="./m-black.svg" alt="m-black" width="100" /><br/>
 <small><a href="./m-black.jpg">JPG</a> | <a href="./m-black.svg">SVG</a></small>
 </td>
 <td align="center">
